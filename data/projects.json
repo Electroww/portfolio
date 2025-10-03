@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Smappen",
+    "description": "Smappen is a geomarketing application that allows users to create maps, areas to extract population data.",
+    "stack": [
+      "Vue.js",
+      "Nest.js",
+      "PostgreSQL",
+      "Python",
+      "Kubernetes",
+      "Redis",
+      "Argo Workflow"
+    ],
+    "url": "https://www.smappen.com",
+    "time_begin": "2020",
+    "time_end": "now"
+  },
+  {
+    "id": "2",
+    "title": "Lolesport Portal",
+    "description": "League of legends esport app with tier 1 leagues matches schedules, results and a World Ranking based on a custom ELO system.",
+    "stack": [
+      "Next.js",
+      "Leaguepedia API",
+      "Supabase",
+      "Python",
+      "MageAI - ELT tool"
+    ],
+    "url": "https://lolesport-portal.vercel.app",
+    "time_begin": "2023",
+    "time_end": "2024"
+  }
+]
