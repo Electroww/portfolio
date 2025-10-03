@@ -18,14 +18,14 @@ export default function Home() {
     <div className="font-sans flex items-center justify-center min-h-screen p-10 lg:p-0">
       <div className="max-w-5xl grid grid-cols-1 md:grid-cols-8 md:grid-rows-5 gap-6">
         {/*Header*/}
-        <div className="row-start-1 col-span-full w-full h-full flex items-center justify-between gap-2 overflow-hidden">
-          <div className="flex gap-6 items-center h-full">
+        <div className="row-start-1 col-span-full w-full h-full flex flex-col md:flex-row items-center justify-between gap-2 overflow-hidden">
+          <div className="flex flex-col sm:flex-row gap-6 items-center h-full">
             <h1 className="font-title font-black text-3xl leading-6">
               ELEC
               <br />
               SAMA
             </h1>
-            <div className="h-12 w-px bg-foreground"></div>
+            <div className="sm:h-12 w-px bg-foreground"></div>
             <div>
               <h2 className="font-title font-regular text-sm">
                 Software Engineer
